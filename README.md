@@ -1,11 +1,13 @@
 # XMLRPC
 XMLRPC has different module names in different python versions:
 
-For Server
+For Server:
+
 v2. SimpleXMLRPCServer
 v3. xmlrpc.server
 
-For Client
+For Client:
+
 v2. xmlrpclib
 v3. xmlrpc.client
 
