@@ -1,0 +1,7 @@
+In this example server will have different methods for performing different math operations and the client will use the methods defined in the server
+
+The Server file has different Math Operation methods
+
+The Client1 file is able to querry all the "USER-DEFINED" methods from the serve
+r
+
